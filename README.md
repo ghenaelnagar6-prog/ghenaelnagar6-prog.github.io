@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://ghenaelnagar6-prog.github.io/">
-    <img src="preview.png" alt="Portfolio preview" width="800">
-  </a>
+<img src="preview.png.png" alt="Portfolio preview" width="800">  </a>
 </p>
 
 <p align="center">
